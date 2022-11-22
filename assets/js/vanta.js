@@ -1,0 +1,1 @@
+VANTA.NET({el:"#bg",mouseControls:true,touchControls:true,gyroControls:true,minHeight:screen.height,minWidth:screen.width,scale:1.00,scaleMobile:1.5,color:0x4d4d4d,backgroundColor:0x0,spacing:17.00})
